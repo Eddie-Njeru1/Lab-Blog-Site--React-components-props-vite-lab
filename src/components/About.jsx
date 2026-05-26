@@ -4,7 +4,7 @@ function About() {
   return (
     <aside>
         <img>
-        src={image} alt="blog logo" /img
+        src={image} alt="blog logo"/img
         </img> 
 
         <P>
